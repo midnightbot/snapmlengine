@@ -22,7 +22,7 @@ def load_data(file_name):
             data = pd.read_csv(file_name)
             return data
     except:
-        raise Exception('File Type is not compatible for analysis')
+        raise Exception('File Not Found or File Type is not compatible for analysis')
 
 def data_shape():
     '''

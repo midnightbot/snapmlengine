@@ -1,1 +1,4 @@
 snapalgo
+pandas
+numpy
+scikit-learn

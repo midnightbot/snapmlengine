@@ -1,8 +1,9 @@
 from setuptools import setup, find_packages
 from pathlib import Path
+
 setup(
   name='snapmlengine',
-  version='0.0.0.1',
+  version= '0.0.2.10',
   description='ML Helper',
   long_description=Path("README.md").read_text(encoding="utf-8"),
   long_description_content_type="text/markdown",
@@ -12,7 +13,7 @@ setup(
   license='MIT', 
   keywords=['python', 'coding', 'ml', 'algorithms'],
   packages=find_packages(),
-  install_requires=['snapalgo', 'pandas', 'numpy', 'sklearn'] ,
+  install_requires=['snapalgo', 'pandas', 'numpy', 'scikit-learn'] ,
   classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",

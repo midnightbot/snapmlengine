@@ -1,9 +1,9 @@
 Metadata-Version: 2.1
 Name: snapmlengine
-Version: 0.0.1
-Summary: ML Dashboard
+Version: 0.0.2.10
+Summary: ML Helper
 Home-page: https://github.com/midnightbot/snapmlengine
-Author: Anish Adnani
+Author: Anish Adnani, Parth Goel
 Author-email: anishadnani00@gmail.com
 License: MIT
 Keywords: python,coding,ml,algorithms
@@ -14,7 +14,38 @@ Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: Unix
 Classifier: Operating System :: MacOS :: MacOS X
 Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
 License-File: LICENCE.txt
 
-Code generating code
+## snapmlengine : snapmlengine helps you with Machine Learning Tasks
+
+- **Website:** https://github.com/midnightbot/snapmlengine
+- **Source Code:** https://github.com/midnightbot/snapmlengine
+- **Bug Reports:** https://github.com/midnightbot/snapmlengine/issues
+
+## What is it?
+
+**snapmlengine** is a Python package that provides fast and flexible solution to Machine Learning Tasks
+
+## snapmlengine provides
+- Functions to perform ML Tasks
+
+## Where to get it
+
+The source code is currently hosted on GitHub at:
+https://github.com/midnightbot/snapmlengine
+
+```sh
+# conda
+conda install snapmlengine
+```
+
+```sh
+# or PyPI
+pip install snapmlengine
+```
+
+## Background
+
+Work on ``snapmlengine`` started in 2023 and has been under active development since then.
 
