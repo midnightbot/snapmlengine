@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: snapmlengine
+Version: 0.0.1
+Summary: ML Dashboard
+Home-page: https://github.com/midnightbot/snapmlengine
+Author: Anish Adnani
+Author-email: anishadnani00@gmail.com
+License: MIT
+Keywords: python,coding,ml,algorithms
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+License-File: LICENCE.txt
+
+Code generating code
+
