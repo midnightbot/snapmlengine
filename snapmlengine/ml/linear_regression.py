@@ -82,7 +82,7 @@ def create_graphs(analysis):
     for x in range(len(input_fts)-1):
         for y in range(x+1, len(input_fts)):
             new_graph = []
-            new_graph.append("Pairwise Scatterplots" + input_fts[x] + " vs " + input_fts[y])
+            new_graph.append("Pairwise Scatterplots : " + input_fts[x] + " vs " + input_fts[y])
             new_graph.append(input_fts[x])
             new_graph.append(input_fts[y])
             new_graph.append(list(data[input_fts[x]]))

@@ -3,7 +3,7 @@ from pathlib import Path
 
 setup(
   name='snapmlengine',
-  version= '0.0.2.10',
+  version= '0.0.2.11',
   description='ML Helper',
   long_description=Path("README.md").read_text(encoding="utf-8"),
   long_description_content_type="text/markdown",
